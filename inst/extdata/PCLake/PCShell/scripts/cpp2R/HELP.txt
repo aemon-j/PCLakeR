@@ -1,0 +1,6 @@
+If the model does not compile, you can check via the cmd box if the command file "compile_model_cpp.cmd" works.
+
+During the compilation you might see a lot of text running by, which is hard to read, and part of it gets lost - although it might be of interest.
+If you want to get the full output from the compilation, put both the messages and the errors into additional text files by typing in the command line:
+compile_model_cpp.cmd >info.txt 2>error.txt
+See also: https://helpdeskgeek.com/how-to/redirect-output-from-command-line-to-text-file/

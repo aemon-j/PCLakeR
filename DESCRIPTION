@@ -1,0 +1,11 @@
+Package: PCLakeR
+Type: Package
+Title: Work with PCLake in R
+Version: 0.0.9
+Authors@R: c(person("Robert", "Ladwig", email = "rladwig2@wisc.edu", role = c("aur", "cre")))
+Maintainer: Robert Ladwig <rladwig2@wisc.edu>
+Description: Run the PClake model within R. Comes with a compiled version of PCLake and example files.
+License: GPL3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.0
