@@ -1,0 +1,16 @@
+citHeader("To cite SimstratR in publications use:")
+
+citEntry(
+  entry    = "Article",
+  title    = "Application of k-ϵ turbulence models to enclosed basins: {The} role of internal seiches",
+  author   = "Goudsmit, G.-H. and Burchard, H. and Peeters, F. and Wüest, A.",
+  journal  = "Journal of Geophysical Research: Oceans",
+  year     = "2002",
+  volume   = "107",
+  number   = "C12",
+  pages    = "23--1--23--13",
+  doi = "10.1029/2001JC000954",
+  textVersion = paste("Goudsmit, G.-H., H. Burchard, F. Peeters, and A. Wüest. 2002.", " Application of K-ϵ Turbulence Models
+to Enclosed Basins: The Role of Internal Seiches.", " Journal of Geophysical Research: Oceans 107 (C12):",
+" 23–21–23–13. ", "https://doi.org/10.1029/2001JC000954.")
+)
